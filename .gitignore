@@ -1,0 +1,11 @@
+# build output
+*.exe
+*.test
+*.out
+/dist/
+
+# editor / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
